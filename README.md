@@ -1,0 +1,2 @@
+# seminarie
+seminarie uppgift
