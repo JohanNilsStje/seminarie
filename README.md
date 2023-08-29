@@ -1,4 +1,4 @@
-# Seminarie
+# Seminarie 1
 
 Seminarieuppgift
 Ni ska i grupper på 3-4 personer per grupp skapa en presentation i google presentationer,
