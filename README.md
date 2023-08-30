@@ -32,46 +32,47 @@ Level 4 (High Driving Automation)
 Level 5 (Full Driving Automation)
 Where's My Autonomous Car?
 
+
 Johan:
-
+---
 [1] Problem man vill lösa med självkörande fordon:
-
+---
 Vill lösa problemet med den mänskliga faktorn i trafiken
 
 Möjligheten att kunna ha chafförer 24/7 som kan transportera och leverera dygnet runt
 
 [2] Hur har man försökt att implementera självkörande fordon innan?
-
+---
 Man har använt olika tekniker för att få semi-självkörande fordon. 
 Det kan tex vara att fordonet håller sig i filen automatiskt med hjälp av ... samt att fordonen automatiskt kan bromsa ifall det är påväg att bli en kollision
 
 [3]
-
+---
 Lösningen som används idag är självbromsande, självstyrande och (något mer)
 
 [4]
-
+---
 Tekniken som används (research)
 
 [5] 
-
+---
 Algoritmer som används är (research)
 
 [6]
-
+---
 Idag kan du köpa en bil som underlättar körningen tex säker crusing, håller sig inanför linjerna på vägarna samt bromsar ifall du håller på att krocka. (Lägg till mer?)
 
 [7]
-
+---
 En nackdel kan vara att systemen är sårbara för elektroniska fel.
 En annan är att man inte längre kommer kunna kontrollera sitt eget fordon ifall ratten tas bort i framtiden etc
 
 [8]
-
-I framtiden kommer  många jobb försvinna pågrund av tekniken som utvecklas. Chafförer kommer ersättas av maskiner vilket låter lite dystopiskt.
+---
+I framtiden kommer  många jobb försvinna pågrund av tekniken som utvecklas. Chafförer kommer ersättas av självkörande fordon.
 
 Sebastian:
-
+---
 Vilket är det bakomliggande problemet man vill lösa? 1
 --------------------------------------------------------------
 - Diskutera olycksfrekvens och mänskliga fel.
@@ -134,9 +135,9 @@ Slutsats
 - Balansen mellan teknologisk utveckling och etiska överväganden.
 - Öppna upp för frågor och diskussion.
 
-  Sammanstälnning:
-
-  Vilket är det bakomliggande problemet man vill lösa? 1
+Sammanstälnning:
+---
+Vilket är det bakomliggande problemet man vill lösa? 1
 --------------------------------------------------------------
 - Diskutera olycksfrekvens och mänskliga fel.
 - Självkörande bilars mål att minska olyckor.
@@ -177,7 +178,7 @@ Vilka huvudsakliga algoritmer skulle kunna ligga bakom lösningen? 5
 - Beslutsfattande algoritmer och deras roll i bilens navigering.
   Källa: https://www.aiwakforce.com/blog/how-do-self-driving-cars-work-the-sensors-the-algorithms-and-the-data/
 
-  Hur långt man kommit i lösningen och vilka utvecklingspotentialerna är? 6
+Hur långt man kommit i lösningen och vilka utvecklingspotentialerna är? 6
 -----------------------------------------------------------------------
 - nuvarande begränsningar som behovet av mänsklig inblandning
 - Pågående forskning och framtida utvecklingar.
@@ -201,7 +202,7 @@ Finns det några etiska problem med lösningen? 8
   Källa: https://www.gsb.stanford.edu/insights/exploring-ethics-behind-self-driving-cars
 I framtiden kommer  många jobb försvinna pågrund av tekniken som utvecklas.
 
-  Slutsats
+Slutsats
 --------
 - Sammanfatta de viktigaste punkterna.
 - Balansen mellan teknologisk utveckling och etiska överväganden.
