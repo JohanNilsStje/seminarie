@@ -152,8 +152,8 @@ Hur har man försökt lösa problemet innan? 2
 - Avancerade förarassistanssystem (ADAS) och deras begränsningar.
 - Kollektivtrafikens roll.
   Källa: https://www.vox.com/recode/2020/9/25/21456421/why-self-driving-cars-autonomous-still-years-away
-Man har använt olika tekniker för att få semi-självkörande fordon. 
-Det kan tex vara att fordonet håller sig i filen automatiskt med hjälp av ... samt att fordonen automatiskt kan bromsa ifall det är påväg att bli en kollision
+- Man har använt olika tekniker för att få semi-självkörande fordon. 
+- Det kan tex vara att fordonet håller sig i filen automatiskt med hjälp av sensorer och kameror samt att fordonen automatiskt kan bromsa ifall det är håller på att bli en kollision
 
 Hur lösningen används i vardagen och dess påverkan 3
 -------------------------------------------------------------
@@ -191,8 +191,8 @@ Finns det nackdelar med applikationen? 7
 - Sårbarhet för hackning.
 - Begränsningar i extremt väder.
   Källa: https://www.weforum.org/agenda/2019/07/self-driving-cars-downsides/
-En nackdel kan vara att systemen är sårbara för elektroniska fel.
-En annan är att man inte längre kommer kunna kontrollera sitt eget fordon ifall ratten tas bort i framtiden etc
+- En nackdel kan vara att systemen är sårbara för elektroniska fel.
+- En annan är att man inte längre kommer kunna kontrollera sitt eget fordon ifall ratten tas bort i framtiden etc
 
 Finns det några etiska problem med lösningen? 8
 ---------------------------------------------
@@ -200,7 +200,7 @@ Finns det några etiska problem med lösningen? 8
 - Jobbförluster inom transportindustrin.
 - Datasekretessfrågor.
   Källa: https://www.gsb.stanford.edu/insights/exploring-ethics-behind-self-driving-cars
-I framtiden kommer  många jobb försvinna pågrund av tekniken som utvecklas.
+- I framtiden kommer  många jobb försvinna pågrund av tekniken som utvecklas.
 
 Slutsats
 --------
