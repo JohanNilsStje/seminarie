@@ -9,22 +9,22 @@ powerpoint eller prezi om en valfri AI-baserad lösning. Det är helt okej om mi
 - ca 10 min/grupp att presentera följt av ca 5 min diskussion och frågor
 
 - alla i gruppen ska presentera
-1
-- vilket är det bakomliggande problemet man vill lösa? [1]
-2
-- hur har man försökt lösa problemet innan? [2]
-3
+
+- vilket är det bakomliggande problemet man vill lösa?
+
+- hur har man försökt lösa problemet innan?
+
 - hur lösningen används i vardagen och dess påverkan [3]
-4
-- hur lösningen fungerar tekniskt [4]
-5
-- vilka huvudsakliga algoritmer skulle kunna ligga bakom lösningen? [5]
-6
-- hur långt man kommit i lösningen och vilka utvecklingspotentialerna är [6]
-7
-- finns det nackdelar med applikationen? [7]
-8
-- finns det några etiska problem med lösningen? [8]
+
+- hur lösningen fungerar tekniskt
+
+- vilka huvudsakliga algoritmer skulle kunna ligga bakom lösningen?
+
+- hur långt man kommit i lösningen och vilka utvecklingspotentialerna är
+
+- finns det nackdelar med applikationen?
+
+- finns det några etiska problem med lösningen?
 
 Försök gärna komma på fler frågor att undersöka.
 
