@@ -135,7 +135,7 @@ Slutsats
 - Balansen mellan teknologisk utveckling och etiska överväganden.
 - Öppna upp för frågor och diskussion.
 
-Sammanstälnning:
+Sammanställning:
 ---
 Vilket är det bakomliggande problemet man vill lösa? 1
 --------------------------------------------------------------
