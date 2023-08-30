@@ -1,22 +1,23 @@
 # Seminarie 1
 
 Seminarieuppgift
+---
 Ni ska i grupper på 3-4 personer per grupp skapa en presentation i google presentationer,
 powerpoint eller prezi om en valfri AI-baserad lösning. Det är helt okej om mindre delar
 är baserad på AI eller om större delar är baserad på AI. Krav:
 
-• ca 10 min/grupp att presentera följt av ca 5 min diskussion och frågor
+- ca 10 min/grupp att presentera följt av ca 5 min diskussion och frågor
 
-• alla i gruppen ska presentera
+- alla i gruppen ska presentera
 
-• vilket är det bakomliggande problemet man vill lösa? [1]
-• hur har man försökt lösa problemet innan? [2]
-• hur lösningen används i vardagen och dess påverkan [3]
-• hur lösningen fungerar tekniskt [4]
-• vilka huvudsakliga algoritmer skulle kunna ligga bakom lösningen? [5]
-• hur långt man kommit i lösningen och vilka utvecklingspotentialerna är [6]
-• finns det nackdelar med applikationen? [7]
-• finns det några etiska problem med lösningen? [8]
+- vilket är det bakomliggande problemet man vill lösa? [1]
+- hur har man försökt lösa problemet innan? [2]
+- hur lösningen används i vardagen och dess påverkan [3]
+- hur lösningen fungerar tekniskt [4]
+- vilka huvudsakliga algoritmer skulle kunna ligga bakom lösningen? [5]
+- hur långt man kommit i lösningen och vilka utvecklingspotentialerna är [6]
+- finns det nackdelar med applikationen? [7]
+- finns det några etiska problem med lösningen? [8]
 
 Försök gärna komma på fler frågor att undersöka.
 
